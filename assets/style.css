@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Unbounded", "Arial", sans-serif;
+}
+.name{
+    font-size: 200%;
+    color: rgb(107, 106, 106);
+    text-align: justify;
+ 
+    padding-top: 5%;
+}
+
+
+section {
+    width: 30%;
+   padding-top: 10%;
+   padding-left: 6%;
+   
+}
+.contact{
+    padding-top: 10%;
+   
+}
+.all{
+    display: flex;
+    justify-content: flex-start
+}
+.article{
+
+}
+.zagolovok{
+    padding-top: 10%;
+    font-size: 200%;
+    color: rgb(94, 154, 3);
+}
+.zagolovok1{
+    padding-top: 8%;
+    font-size: 200%;
+    color: rgb(94, 154, 3);
+}
+.education{
+    padding-top: 10%;
+    font-size: 100%;
+}
+.college{
+    padding-top: 8%;
+}
+.other
+{
+    padding-top: 8%;
+}
+.verst{
+    padding-top: 10%;
+}
+.info{
+    display: flex;
+    justify-content: normal;
+}
+.hobies{
+    padding-left: 10%;
+}
+.hobi{
+    padding-top: 10%;
+}
+.information{
+    color: aliceblue;
+    padding-left: 20px;
+    padding-right: 200px;
+    padding-bottom: 175px;
+    background-color: rgb(20, 20, 20);
+}
+.photo {
+    display: inline-block; 
+    
+   }
+   .photo img {
+    transition: 1s; 
+   
+   }
+   .photo img:hover {
+    transform: scale(3); 
+   }
